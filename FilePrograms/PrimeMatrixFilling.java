@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Prime_MatrixFilling
+class PrimeMatrixFilling
 {
     public static void main(String[] args)
     {

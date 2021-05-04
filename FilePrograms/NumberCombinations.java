@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Number_Combinations
+class NumberCombinations
 {
     public static void main(String[] args)
     {

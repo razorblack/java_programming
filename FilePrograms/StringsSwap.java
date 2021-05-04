@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Strings_Swap
+class StringsSwap
 {
     public static void main(String[] args)
     {

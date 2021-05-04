@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Twin_Primes
+class TwinPrimes
 {
     public static void main(String[] args)
     {

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Packing_Manufacture
+class PackingManufacture
 {
     public static void main(String[] args)
     {

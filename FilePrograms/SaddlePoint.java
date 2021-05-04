@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Saddle_Point
+class SaddlePoint
 {
     public static void main(String[] args)
     {

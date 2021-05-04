@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.StringTokenizer;
-class Sentence_Reverse
+class SentenceReverse
 {
     public static void main(String[] args)throws IOException
     {

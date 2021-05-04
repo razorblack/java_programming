@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Smith_Number
+class SmithNumber
 {
     public static void main(String[] args)
     {

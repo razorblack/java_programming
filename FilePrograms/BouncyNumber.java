@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Bouncy_Number
+class BouncyNumber
 {
     public static void main(String[] args)
     {

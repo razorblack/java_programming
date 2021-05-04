@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Paragraph_Arrange
+class ParagraphArrange
 {
     public static void main(String[] args)
     {

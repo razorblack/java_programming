@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.StringTokenizer;
-class Sentence_Modify
+class SentenceModify
 {
     public static void main(String[] args)throws IOException
     {

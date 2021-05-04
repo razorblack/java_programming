@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Keith_Number
+class KeithNumber
 {
     public static void main(String[] args)
     {

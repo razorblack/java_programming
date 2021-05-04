@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Matrix_Filling
+class MatrixFilling
 {
     public static void main(String[] args)
     {

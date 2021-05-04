@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Circular_Prime
+class CircularPrime
 {
     public static void main(String[] args)
     {

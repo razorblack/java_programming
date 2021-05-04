@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Evil_Number
+class EvilNumber
 {
     public static void main(String[] args)
     {

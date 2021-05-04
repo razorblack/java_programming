@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Duplicate_Characters
+class DuplicateCharacters
 {
     public static void main(String[] args)
     {

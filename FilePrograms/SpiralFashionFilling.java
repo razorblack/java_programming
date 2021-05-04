@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Spiral_FashionFilling
+class SpiralFashionFilling
 {
     public static void main(String[] args)
     {

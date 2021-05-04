@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Matrix_Sort
+class MatrixSort
 {
     static int M;
     static int A[][];

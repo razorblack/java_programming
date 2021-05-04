@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Matrix_Rotation
+class MatrixRotation
 {
     public static void main(String[] args)
     {

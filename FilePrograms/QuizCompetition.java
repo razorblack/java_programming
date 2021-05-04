@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Quiz_Competition
+class QuizCompetition
 {
     public static void main(String[] args)
     {

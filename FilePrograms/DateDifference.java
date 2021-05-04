@@ -1,6 +1,6 @@
 import java.text.*;
 import java.util.*;
-class Date_Difference
+class DateDifference
 {
     public static void main(String[] args)throws Exception
     {

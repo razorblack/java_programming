@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Caesar_Cipher
+class CaesarCipher
 {
     public static void main(String[] args)
     {

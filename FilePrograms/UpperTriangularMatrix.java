@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Upper_TriangularMatrix
+class UpperTriangularMatrix
 {
     public static void main(String[] args)
     {
