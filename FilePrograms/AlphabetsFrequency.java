@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Alphabets_Frequency
+class AlphabetsFrequency
 {
     public static void main(String[] args)
     {

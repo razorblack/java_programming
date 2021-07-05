@@ -1,5 +1,5 @@
 import java.util.*;
-public class MatrixSort
+public class MatrixSorting
 {
     public static void main(String []args)
     {
