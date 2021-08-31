@@ -23,18 +23,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec877fad-b712-427b-b84d-202250749ec4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/ConstructorPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/Hypotenuse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/InheritancePractice/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/InheritancePractice/COD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/InheritancePractice/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/InheritancePractice/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/NumberGuessingGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/Volume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOJSolutions/ID1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPOJSolutions/ID2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FilePrograms/Alphabets_Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/AlphabetsFrequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticePrograms/MatrixSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePrograms/MatrixSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/FactorialOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/FactorsOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/LargestOfAllNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/LargestOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/RupeeIntoDollar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/SimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/SumOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/WelcomeGreeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_programming.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,48 +74,42 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="OracleOpenJDK 1.8" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.14972776" />
+    <property name="project.structure.side.proportion" value="0.16452992" />
+    <property name="settings.editor.selected.configurable" value="CodeWithMe" />
   </component>
-  <component name="RunManager" selected="Application.Volume">
-    <configuration name="ConstructorPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstructorPractice" />
+  <component name="RunManager" selected="Application.LargestOfAllNumbers">
+    <configuration name="FactorsOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactorsOfNumber" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hypotenuse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hypotenuse" />
+    <configuration name="LargestOfAllNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestOfAllNumbers" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberGuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberGuessingGame" />
+    <configuration name="LargestOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestOfTwo" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SavingsAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InheritancePractice.SavingsAccount" />
+    <configuration name="RupeeIntoDollar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RupeeIntoDollar" />
       <module name="java_programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InheritancePractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Volume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Volume" />
+    <configuration name="SumOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfNumbers" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Volume" />
-        <item itemvalue="Application.Hypotenuse" />
-        <item itemvalue="Application.SavingsAccount" />
-        <item itemvalue="Application.NumberGuessingGame" />
-        <item itemvalue="Application.ConstructorPractice" />
+        <item itemvalue="Application.LargestOfAllNumbers" />
+        <item itemvalue="Application.SumOfNumbers" />
+        <item itemvalue="Application.RupeeIntoDollar" />
+        <item itemvalue="Application.FactorsOfNumber" />
+        <item itemvalue="Application.LargestOfTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -155,5 +150,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
