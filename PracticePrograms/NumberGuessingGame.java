@@ -28,7 +28,7 @@ public class NumberGuessingGame {
             }
         }
         if (isWon) {
-            System.out.println("Great! You won. The number is " +randomNumber);
+            System.out.println("Great! You won. The number is " + randomNumber);
         } else {
             System.out.println("No Guesses left. You lost the game!");
             System.out.println("The number is " + randomNumber);

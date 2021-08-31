@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.util.Arrays;
+
 public class MrString {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -36,6 +37,7 @@ public class MrString {
             System.out.println("\"greater 100\"");
         }
     }
+
     public static int vowelCount(String str) {
         int count = 0;
         str = str.toLowerCase();
@@ -47,12 +49,13 @@ public class MrString {
         }
         return count;
     }
+
     public static String numberToWords(int n) {
         String textOfNumber;
         final String[] unitArray = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
         final String[] unitArray2 = {"ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen",
                 "seventeen", "eighteen", "nineteen"};
-        final String[] tensArray = {"", "", "twenty", "thirty", "forty", "fifty","sixty", "seventy",
+        final String[] tensArray = {"", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy",
                 "eighty", "ninety"};
         if (n < 10) {
             textOfNumber = unitArray[n];
@@ -71,6 +74,7 @@ public class MrString {
         return textOfNumber;
 
     }
+
     public static int[] removeDuplicates(int[] arr) {
         int len = arr.length;
         for (int i = 0; i < len; i++) {

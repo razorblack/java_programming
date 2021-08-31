@@ -1,4 +1,5 @@
 // Take in two numbers and an operator (+, -, *, /) and calculate the value
+
 import java.util.Scanner;
 
 public class BasicCalculator {

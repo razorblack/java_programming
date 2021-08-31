@@ -8,6 +8,7 @@
 
 import java.util.Arrays;
 import java.util.Scanner;
+
 public class BinaryOnesInARange {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -18,6 +19,7 @@ public class BinaryOnesInARange {
         }
         System.out.println(Arrays.toString(binaryOnes));
     }
+
     // Method to return no. of ones in a binary
     protected static int binaryOnesInANumber(int n) {
         int numberOfOnes = 0;

@@ -18,7 +18,7 @@ public class Volume {
             double r = sc.nextDouble();
             System.out.println("Enter height");
             double h = sc.nextDouble();
-            vol = (1.0 / 3* 22.0/7 * Math.pow(r, 2) * h);
+            vol = (1.0 / 3 * 22.0 / 7 * Math.pow(r, 2) * h);
             System.out.println("Volume of cone is " + vol);
         } else if (choice == 3) {
             System.out.println("Enter radius");

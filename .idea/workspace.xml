@@ -22,20 +22,54 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec877fad-b712-427b-b84d-202250749ec4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/BasicCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/FactorialOfANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/FactorsOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/LargestOfAllNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/LargestOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/RupeeIntoDollar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/SimpleInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/SumOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/WelcomeGreeting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ec877fad-b712-427b-b84d-202250749ec4" name="Default Changelist" comment="Basic Java Programs-Day1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/AlphabetsFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/AlphabetsFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/Anagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/BouncyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/BouncyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/CaesarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/CaesarCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/Calendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/CircularPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/CircularPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/DateDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/DateDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/DecimalToHexadecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/DecimalToHexadecimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/DuplicateCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/DuplicateCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/EvilNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/EvilNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/IMEI.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/IMEI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/KeithNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/KeithNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/LowerTriangularMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/LowerTriangularMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/MatrixFilling.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/MatrixFilling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/MatrixMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/MatrixMultiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/MatrixRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/MatrixRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/MatrixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/MatrixSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/NumberCombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/NumberCombinations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/PackingManufacture.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/PackingManufacture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/ParagraphArrange.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/ParagraphArrange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/PrimeMatrixFilling.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/PrimeMatrixFilling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/PronicNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/PronicNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/QuizCompetition.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/QuizCompetition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/SaddlePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/SaddlePoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/SentenceModify.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/SentenceModify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/SentenceReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/SentenceReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/SmithNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/SmithNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/SpiralFashionFilling.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/SpiralFashionFilling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/StringsSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/StringsSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/TimeInWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/TimeInWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/TwinPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/TwinPrimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilePrograms/UpperTriangularMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePrograms/UpperTriangularMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePrograms/Banner.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePrograms/Banner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePrograms/BasicCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePrograms/BasicCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePrograms/BinaryOnesInARange.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePrograms/BinaryOnesInARange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePrograms/FallingPathMinSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePrograms/FallingPathMinSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePrograms/ForkBomb.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePrograms/ForkBomb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePrograms/Goldbach.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePrograms/Goldbach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePrograms/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePrograms/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePrograms/MatrixSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePrograms/MatrixSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePrograms/MirrorMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePrograms/MirrorMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePrograms/MrString.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePrograms/MrString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePrograms/NumberGuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePrograms/NumberGuessingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePrograms/Pangram.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePrograms/Pangram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePrograms/StringModify.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePrograms/StringModify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticePrograms/Volume.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticePrograms/Volume.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +108,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="OracleOpenJDK 1.8" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.14972776" />
     <property name="project.structure.side.proportion" value="0.16452992" />
     <property name="settings.editor.selected.configurable" value="CodeWithMe" />
@@ -134,6 +168,14 @@
       <option name="presentableId" value="Default" />
       <updated>1603393574854</updated>
     </task>
+    <task id="LOCAL-00001" summary="Basic Java Programs-Day1">
+      <created>1630407251398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630407251398</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +192,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Basic Java Programs-Day1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic Java Programs-Day1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

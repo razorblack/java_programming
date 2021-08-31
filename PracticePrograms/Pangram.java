@@ -1,9 +1,11 @@
 //Pangrams are the sentences which contains all alphabets
 
 import java.util.Scanner;
+
 public class Pangram {
     static char[] ch = new char[26];
     static String str;
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         str = scanner.nextLine();
@@ -18,6 +20,7 @@ public class Pangram {
         System.out.println("Is input string is a pangram :" + isPangram);
 
     }
+
     public static void alphaArray() {
 
         int temp = 0;
@@ -27,6 +30,7 @@ public class Pangram {
 
         }
     }
+
     public static boolean isIn(char c) {
         for (int i = 0; i < str.length(); i++) {
             if (str.charAt(i) == c) {
