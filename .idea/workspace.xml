@@ -22,10 +22,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec877fad-b712-427b-b84d-202250749ec4" name="Default Changelist" comment="Pattern Question List added">
+    <list default="true" id="ec877fad-b712-427b-b84d-202250749ec4" name="Default Changelist" comment="Removed .class files from git">
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/AreaOfCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/AreaOfEquilateralTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/AreaOfIsoscelesTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/AreaOfParallelogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/AreaOfRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/AreaOfRhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/AreaOfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/Perimeter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticePrograms/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticePrograms/Election.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,37 +76,37 @@
     <property name="project.structure.side.proportion" value="0.16452992" />
     <property name="settings.editor.selected.configurable" value="CodeWithMe" />
   </component>
-  <component name="RunManager" selected="Application.LargestOfAllNumbers">
-    <configuration name="FactorsOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactorsOfNumber" />
+  <component name="RunManager" selected="Application.AreaOfEquilateralTriangle">
+    <configuration name="AreaOfEquilateralTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaOfEquilateralTriangle" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestOfAllNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LargestOfAllNumbers" />
+    <configuration name="AreaOfIsoscelesTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaOfIsoscelesTriangle" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LargestOfTwo" />
+    <configuration name="AreaOfParallelogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaOfParallelogram" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RupeeIntoDollar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RupeeIntoDollar" />
+    <configuration name="AreaOfRhombus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaOfRhombus" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfNumbers" />
+    <configuration name="AreaOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaOfTriangle" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LargestOfAllNumbers" />
-        <item itemvalue="Application.SumOfNumbers" />
-        <item itemvalue="Application.RupeeIntoDollar" />
-        <item itemvalue="Application.FactorsOfNumber" />
-        <item itemvalue="Application.LargestOfTwo" />
+        <item itemvalue="Application.AreaOfEquilateralTriangle" />
+        <item itemvalue="Application.AreaOfRhombus" />
+        <item itemvalue="Application.AreaOfParallelogram" />
+        <item itemvalue="Application.AreaOfIsoscelesTriangle" />
+        <item itemvalue="Application.AreaOfTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630420435419</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Removed .class files from git">
+      <created>1630421139553</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630421139553</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +167,20 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="106" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="131" />
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="68" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -165,7 +192,8 @@
     <MESSAGE value="Basic Java Programs-Day1" />
     <MESSAGE value="Reformatted Code to modern styling" />
     <MESSAGE value="Pattern Question List added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern Question List added" />
+    <MESSAGE value="Removed .class files from git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed .class files from git" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

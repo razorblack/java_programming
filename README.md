@@ -1,2 +1,4 @@
-# java_programming
-A repository for Java Programming practicing programs.
+# Java Programming
+___
+
+#### A repository for Java Programming by [Razorblack](https://github.com/razorblack)
