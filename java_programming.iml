@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/HackerrankJavaSolutions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SPOJSolutions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Patterns" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCodeQuestionsBruteForceSolution" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

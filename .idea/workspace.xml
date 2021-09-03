@@ -22,9 +22,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec877fad-b712-427b-b84d-202250749ec4" name="Default Changelist" comment="More shapes added in volume">
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/Area.java" afterDir="false" />
+    <list default="true" id="ec877fad-b712-427b-b84d-202250749ec4" name="Default Changelist" comment="Programs done DSA Day 3">
+      <change afterPath="$PROJECT_DIR$/LeetCodeQuestionsBruteForceSolution/ContainsDuplicate217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeQuestionsBruteForceSolution/MaximumSubarray53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticePrograms/Fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_programming.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,39 +75,39 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.14972776" />
     <property name="project.structure.side.proportion" value="0.16452992" />
-    <property name="settings.editor.selected.configurable" value="CodeWithMe" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.AreaOfEquilateralTriangle">
-    <configuration name="AreaOfEquilateralTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AreaOfEquilateralTriangle" />
+  <component name="RunManager" selected="Application.Pattern4">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AreaOfIsoscelesTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AreaOfIsoscelesTriangle" />
+    <configuration name="MaximumSubarray53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumSubarray53" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AreaOfParallelogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AreaOfParallelogram" />
+    <configuration name="Pattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern4" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AreaOfRhombus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AreaOfRhombus" />
+    <configuration name="Pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern5" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AreaOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AreaOfTriangle" />
+    <configuration name="Pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern6" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AreaOfEquilateralTriangle" />
-        <item itemvalue="Application.AreaOfRhombus" />
-        <item itemvalue="Application.AreaOfParallelogram" />
-        <item itemvalue="Application.AreaOfIsoscelesTriangle" />
-        <item itemvalue="Application.AreaOfTriangle" />
+        <item itemvalue="Application.Pattern4" />
+        <item itemvalue="Application.Pattern5" />
+        <item itemvalue="Application.Pattern6" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.MaximumSubarray53" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630565030438</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Programs done DSA Day 3">
+      <created>1630565945495</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1630565945495</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,9 +204,9 @@
               </option>
               <option name="COLUMN_ID_WIDTH">
                 <map>
-                  <entry key="Table.Default.Author.ColumnIdWidth" value="106" />
-                  <entry key="Table.Default.Date.ColumnIdWidth" value="131" />
-                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="68" />
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="56" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="52" />
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="47" />
                 </map>
               </option>
             </State>
@@ -209,7 +225,8 @@
     <MESSAGE value="Programs based on conditionals-DSA day 2" />
     <MESSAGE value="More shapes added in perimeter" />
     <MESSAGE value="More shapes added in volume" />
-    <option name="LAST_COMMIT_MESSAGE" value="More shapes added in volume" />
+    <MESSAGE value="Programs done DSA Day 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programs done DSA Day 3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
