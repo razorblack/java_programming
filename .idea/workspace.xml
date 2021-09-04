@@ -22,18 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec877fad-b712-427b-b84d-202250749ec4" name="Default Changelist" comment="Programs done DSA Day 3">
-      <change afterPath="$PROJECT_DIR$/LeetCodeQuestionsBruteForceSolution/ContainsDuplicate217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeQuestionsBruteForceSolution/MaximumSubarray53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Pattern4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Pattern5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Pattern6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticePrograms/Fibonacci.java" afterDir="false" />
+    <list default="true" id="ec877fad-b712-427b-b84d-202250749ec4" name="Default Changelist" comment="Patterns and Leetcode's soulution updated">
+      <change afterPath="$PROJECT_DIR$/LeetCodeQuestionsBruteForceSolution/BuildArrayFromPermutation1920.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeQuestionsBruteForceSolution/ConcatenationOfArray1929.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeQuestionsBruteForceSolution/MergeSortedArray88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeQuestionsBruteForceSolution/RunningSumOf1DArray1480.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeQuestionsBruteForceSolution/TwoSum1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_programming.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,16 +72,16 @@
     <property name="project.structure.side.proportion" value="0.16452992" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Pattern4">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+  <component name="RunManager" selected="Application.TwoSum1">
+    <configuration name="BuildArrayFromPermutation1920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuildArrayFromPermutation1920" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSubarray53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaximumSubarray53" />
+    <configuration name="ConcatenationOfArray1929" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcatenationOfArray1929" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern6" />
+    <configuration name="TwoSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoSum1" />
       <module name="java_programming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoSum1" />
+        <item itemvalue="Application.ConcatenationOfArray1929" />
+        <item itemvalue="Application.BuildArrayFromPermutation1920" />
         <item itemvalue="Application.Pattern4" />
         <item itemvalue="Application.Pattern5" />
-        <item itemvalue="Application.Pattern6" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.MaximumSubarray53" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630565945495</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Patterns and Leetcode's soulution updated">
+      <created>1630692218045</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1630692218045</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +228,8 @@
     <MESSAGE value="More shapes added in perimeter" />
     <MESSAGE value="More shapes added in volume" />
     <MESSAGE value="Programs done DSA Day 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programs done DSA Day 3" />
+    <MESSAGE value="Patterns and Leetcode's soulution updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Patterns and Leetcode's soulution updated" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
