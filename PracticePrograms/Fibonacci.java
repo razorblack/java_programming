@@ -15,12 +15,14 @@ public class Fibonacci {
         int a = 0; // First number of fibonacci
         int b = 1; // Second number of fibonacci
         int c = a + b;
+        int count = 2;
         System.out.print(a + " " + b + " ");
-        while (c <= limit) {
+        while (count < limit) {
             System.out.print(c + " ");
             a = b;
             b = c;
             c = a + b;
+            count++;
         }
     }
 }
