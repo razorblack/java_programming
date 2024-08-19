@@ -27,12 +27,22 @@ public class Problem2181 {
     // Time On Space On
     public static ListNode mergeNodes(ListNode head) {
         ListNode ans = new ListNode();
+        ListNode ans1 = ans;
         int count = 0;
         // as start of node is 0
-        do {
-
-        } while (head != null);
-        return ans;
+        while (head != null) {
+            count += head.val;
+            if (head.val == 0 && count != 0) {
+                ans.val = count;
+                if (head.next != null) {
+                    ans.next = new ListNode();
+                    ans = ans.next;
+                }
+                count = 0;
+            }
+            head = head.next;
+        }
+        return ans1;
     }
 }
 
