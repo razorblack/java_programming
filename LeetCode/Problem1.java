@@ -14,7 +14,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TwoSum1 {
+public class Problem1 {
     public static void main(String[] args) {
         int[] ans = twoSum3(new int[]{2,7,11,15}, 9);
         System.out.println(Arrays.toString(ans)); // [0,1] or [1,0]

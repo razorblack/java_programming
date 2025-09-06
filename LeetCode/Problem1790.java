@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class StringSwap1790 {
+public class Problem1790 {
     public boolean areAlmostEqual(String s1, String s2) {
         if (s1.equals(s2)) {
             return true;
@@ -31,7 +31,7 @@ public class StringSwap1790 {
         }
     }
     public static void main(String[] args) {
-        StringSwap1790 ob = new StringSwap1790();
+        Problem1790 ob = new Problem1790();
         System.out.println(ob.areAlmostEqual("", ""));
     }
 }

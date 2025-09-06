@@ -9,7 +9,7 @@
 
 import java.util.Arrays;
 
-public class RunningSumOf1DArray1480 {
+public class Problem1480 {
     public static void main(String[] args) {
         int[] ans = runningSum(new int[]{1,2,3,4});
         System.out.println(Arrays.toString(ans));
