@@ -13,7 +13,7 @@ public class ArmstrongNumber {
      * @return true if n is armstrong, false otherwise
      */
     private static boolean isArmstrong(int n) {
-        int digitsCount = (int) Math.log10(n) + 1;
+        int digitsCount = (int) Math.log10(n) + 1; // Math formula instead of loop O(log10 n) complexity
         int nBackup = n;
         int powerSum = 0;
         while (n > 0) {

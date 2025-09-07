@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class Project1816 {
+public class Problem1816 {
     public static void main(String[] args) {
         System.out.println(truncateSentence2("Hello how are you Contestant", 4));
     }

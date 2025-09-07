@@ -4,7 +4,9 @@ public class Problem7 {
     }
 
     /**
-     * Time O(log 10 (Integer.MaxValue))
+     * Time O(log 10 (N))
+     * Space Input O(1)
+     * Space Auxiliary O(3)
      * @param x input
      * @return number in reverse
      * if integer is overflow while reversing then 0

@@ -5,10 +5,10 @@ public class Problem9 {
     }
 
     /**
-     * Time O(1) but using stringBuilder reverse operation will make it slow as internally it uses O(n)
+     * Time O(n) using stringBuilder reverse operation, internally it uses O(n)
      * Operation on string make program slow
      * Space Input O(1)
-     * Space Auxiliary O(5)
+     * Space Auxiliary O(n)
      * @param x input
      * @return true if x is palindrome, false otherwise
      */
