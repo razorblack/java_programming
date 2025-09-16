@@ -24,16 +24,16 @@ public class Problem283 {
         int second = 0;
 
         while (first < nums.length && second < nums.length) {
-            if (nums[first] != 0 && nums[second] != 0) {
-                first++;
-                second++;
-            } else if (nums[first] != 0 && nums[second] == 0) {
+            if (nums[first] != 0 && nums[second] == 0) {
                 nums[second] = nums[first];
                 nums[first] = 0;
                 first++;
                 second++;
             } else if (nums[second] == 0 && nums[first] == 0) {
                 first++;
+            } else {
+                first++;
+                second++;
             }
         }
     }
