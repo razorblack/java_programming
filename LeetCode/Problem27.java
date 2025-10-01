@@ -7,7 +7,7 @@ public class Problem27 {
      * Approach: Array Iteration  with 2 pointers
      * Time On
      * Space Input On
-     * Space Auxiliary On
+     * Space Auxiliary O4
      * @param nums Input Array
      * @param val value to find
      * @return number of elements which aren't equal to val in nums
